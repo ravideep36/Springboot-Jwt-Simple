@@ -1,2 +1,2 @@
 # Springboot-Jwt-Simple
-Springboot security using JWT token simple hello world 
+Springboot security using JWT token simple hello world.
